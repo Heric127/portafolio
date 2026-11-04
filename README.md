@@ -60,7 +60,7 @@ My current focus is on **Python, Django, SQL, and backend development**, with a 
 - Git & GitHub
 - Visual Studio Code
 - MySQL Workbench
-- GitHub Copilt
+- GitHub Copilot
 - Claude Code by Anthropic 
 
 ---
