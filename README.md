@@ -1,3 +1,29 @@
+## 🛠️ Technologies & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,git,github,vscode,mysql,html,css," />
+</p>
+
+## 🤖 AI-Assisted Development
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+</p>
+
+I use AI-powered tools to support and improve my software development workflow, including:
+
+- Code explanation, debugging, and troubleshooting.
+- Understanding programming concepts and technical documentation.
+- Exploring alternative solutions and improving code quality.
+- Supporting problem-solving and learning.
+- Reviewing and refining code while maintaining an understanding of the underlying implementation.
+
+I believe AI is most effective when combined with strong programming fundamentals, critical thinking, and independent problem-solving.
+
+
+---
 # Hi, I'm Heric Perez 👋
 
 ### Software Engineering Student | Aspiring Software Developer
